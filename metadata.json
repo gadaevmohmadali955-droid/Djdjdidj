@@ -1,0 +1,6 @@
+{
+  "name": "BloxChat",
+  "description": "Roblox-style dark theme roulette, biometric face & age verification, real name check, voice & video calls, friends system and admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
